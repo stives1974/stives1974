@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming a DevOps engineer
-- 🌱 I’m currently learning DevOps, Ansible, Rerraform and Red Hat
+- 🌱 I’m currently learning DevOps, Ansible, Terraform and Red Hat
 - 👯 I’m looking to collaborate on all the above
 - 🤔 I’m looking for help with all the above
 - 💬 Ask me about anything
